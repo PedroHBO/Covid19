@@ -23,4 +23,4 @@ PS: Para fazer funcionar é necessario baixar alguns gerenciadores de pacotes:
 
 ``react-app-rewired``
 
-**Lets Bora!**
+**Avante DEV!**
